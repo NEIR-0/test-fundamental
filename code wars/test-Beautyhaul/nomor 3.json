@@ -1,0 +1,17 @@
+[
+  {
+    "name": "pisang",
+    "qty": 2,
+    "price": 80000
+  },
+  {
+    "name": "mangga",
+    "qty": 3,
+    "price": 300000
+  },
+  {
+    "name": "semangka",
+    "qty": 1,
+    "price": 1500000
+  }
+]
